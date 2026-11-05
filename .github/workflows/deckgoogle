@@ -1,0 +1,8 @@
+├── docs/
+│   ├── codigo-de-etica.md
+│   ├── protecao-de-dados.md
+│   ├── seguranca-informacao.md
+│   └── canal-denuncia.md
+├── assets/ (para imagens, logos e PDFs de contratos)
+├── README.md
+└── index.html (ou o arquivo de configuração do seu gerador de site)
