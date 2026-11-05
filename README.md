@@ -19,3 +19,6 @@ Transformar regras complexas em uma documentação acessível, dinâmica e fáci
 Se você identificou uma política desatualizada ou quer sugerir melhorias na redação de um termo:
 1. Abra uma **Issue** explicando a sugestão.
 2. Faça um **Fork** do repositório, crie uma branch e envie um **Pull Request**.
+
+   Confira o nosso [Código de Conduta](codigo-de-conduta.md) oficial.
+
